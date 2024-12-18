@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\UnitofWork_Pattern_Demo.props" />
+</Project>

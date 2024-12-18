@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UnitofWork_Pattern_Demo.props" />
+</Project>
